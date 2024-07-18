@@ -1,0 +1,7 @@
+scikitlearn>= 1.5.0
+numpy>=1.22.4
+pandas>=1.5.3
+matplotlib>=3.5.1
+seaborn>=0.12.2
+binpickle>=0.3.4
+ucimlrepo>=0.0.7
